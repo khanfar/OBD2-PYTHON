@@ -3,6 +3,8 @@
 [![GitHub](https://img.shields.io/github/license/khanfar/OBD2-PYTHON)](https://github.com/khanfar/OBD2-PYTHON)
 [![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 
+![Screenshot 2025-01-17 201953](https://github.com/user-attachments/assets/6ccf3e7b-6c58-47bf-a3fe-b4bd93064858)
+
 A Python-based OBD-2 (On-Board Diagnostics II) car diagnostic tool for reading fault codes and monitoring vehicle data. This educational project demonstrates how to interface with your car's OBD-2 system using Python.
 
 ## 📑 Table of Contents
